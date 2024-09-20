@@ -1,0 +1,48 @@
+ body {
+    background-color: #333; /* Dark grey background */
+    color: #fff; /* White text */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #eee; /* Light grey for headings */
+}
+
+p {
+    color: #ccc; /* Lighter grey for paragraphs */
+}
+
+a {
+    text-decoration: none;
+    color: #1e90ff; /* Blue color for links */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+footer {
+    margin-top: 50px;
+    color: #888; /* Light grey for footer */
+}
+
+.introduction {
+    background-color: #444; /* Slightly lighter grey for introduction */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.gallery {
+    background-color: #222; /* Dark background for gallery */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+  
